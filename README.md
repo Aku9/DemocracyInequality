@@ -1,4 +1,4 @@
-# DemocracyInequality
+# Democracy & Inequality
 A comparison of global rates of economic inequality and democratic freedoms
 
 Income inequality was observed to be negatively correlated with political right and civil liberties on a global scale.
